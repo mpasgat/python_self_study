@@ -1,0 +1,5 @@
+2024-01-15 10:23:45 INFO User alice logged in
+2024-01-15 10:24:12 WARNING Slow query took 5.2s
+2024-01-15 10:25:01 ERROR Database connection failed
+2024-01-15 10:25:30 INFO User bob logged in
+2024-01-15 10:26:00 ERROR Database connection failed
